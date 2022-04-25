@@ -1,14 +1,53 @@
 0:00 - 6:00
-[Interviewer]: Well good evening everyone. Thank you so much for joining us tonight's science cafe with Dr. Samuel Ting. My name is Kim Goldener and I will be the host evening. Before ww begin I would like to thank the Cary Library Foundation whose mission is to raise private funds for the Cary Library. Their support enables them to bring programs like tonights event to you. The foundation plays a unique role in the science cafe series, and also produces the content for each program. So now I would like to introduce the special guest for this evening. Professor Ting is a world renown particle physicist, and an MIT professor in physics. He was awarded the Nobel prize in physics in 1976, which he shared with Burton Richter, for the discovery of the j-particle. Professor Ting currently leads the alpha magnetic spectrometer experiment on the International Space Station which is searching for the origin of antimatter, dark matter, and cosmic rays. Please join me in welcoming Dr. Samuel Ting.
+[Interviewer]: 
+Well good evening everyone. 
+Thank you so much for joining us tonight's science cafe with Dr. Samuel Ting. 
+My name is Kim Goldener and I will be the host evening. 
+Before we begin I would like to thank the Cary Library Foundation whose mission is to raise private funds for the Cary Library. 
+Their support enables them to bring programs like tonights event to you.
+The foundation plays a unique role in the science cafe series, and also produces the content for each program. 
+So now I would like to introduce the special guest for this evening. 
+Professor Ting is a world renown particle physicist, and an MIT professor in physics. 
+He was awarded the Nobel prize in physics in 1976, which he shared with Burton Richter, for the discovery of the j-particle. 
+Professor Ting currently leads the alpha magnetic spectrometer experiment on the International Space Station which is searching for the origin of antimatter, dark matter, and cosmic rays. 
+Please join me in welcoming Dr. Samuel Ting.
 
-[Dr. Ting]: Thank you.
+[Dr. Ting]: 
+Thank you.
 
-[Interviewer]: Thank you for coming.
+[Interviewer]: 
+Thank you for coming.
 
-[Dr. Ting]: So currently, I am leading an experiment on the international space station known as alpha magnetic spectrometer or AMS. So to begin this I will share with you a history of our understanding of the building blocks of the universe. 2,000 years ago we view earth air, fire, and water as the most basic elements. Then we added three more elements. In the beginning of the 1900s we have figured out the chemical elements as the basic elements of the universe. In the fifties we viewed the nucleus as the basic element of the universe. After that, in the 1960s, we viewed a few hundred articles inside the nucleus as the building blocks of the universe. Now we view 6 quarks and the lepton as the basic element of the universe. Therefore the quarks lepton shows the truth changes with time.
-
-[Dr. Ting cont.]: The development of accelerators began in 1589. Where Galileo used the very [ineligible] energy accelerator, and perhaps did the most important work on gravity. Currently, the largest accelerator is the circumference of 27 kilometers or 15 miles 
-
+[Dr. Ting]: 
+So currently, I am leading an experiment on the international space station known as alpha magnetic spectrometer or AMS. 
+So to begin this I will share with you a history of our understanding of the building blocks of the universe. 
+2,000 years ago we view earth air, fire, and water as the most basic elements. Then we added three more elements. 
+In the beginning of the 1900s we have figured out the chemical elements as the basic elements of the universe. 
+In the fifties we viewed the nucleus as the basic element of the universe. 
+After that, in the 1960s, we viewed a few hundred articles inside the nucleus as the building blocks of the universe. 
+Now we view 6 quarks and the lepton as the basic element of the universe. Therefore the quarks lepton shows the truth changes with time.
+The development of accelerators began in 1589. Where Galileo used the very [ineligible] energy accelerator, and perhaps did the most important work on gravity. 
+Currently, the largest accelerator is the circumference of 27 kilometers or 15 miles. Te purpose is to study the fundamental building blocks of the universe. 
+The [ineligible] space experiment, the biggest experiment lasted 21 years and used 100 billion electron-moles which collided. 
+The temperature during the collision was 400 billion times hotter than the temperature in the surface of the sun. 
+This is equivalent to the temperature of the Big Bang beginning of the universe. 
+Which happened in ten to the  minus eleven seconds. The waypoint is my outer home in France. 
+So, my wife and I commute back and forth. 
+In that experiment we searched for the fundamental particles in the universe. We now know that electrons and quarks are the most basic element. 
+The first questions is, how many types of electrons? 
+Do electrons have a size? 
+Can electrons be divided into smaller particles?
+How many types of quarks?
+Do they have a size?
+Can they be divided into smaller particles?
+This is a rather large experiment.
+It's the first international collaboration between 20 countries, including the United States, at that time the Soviet Union, China, Taiwan, India, Pakistan, East, and West Germany. 
+Many many people working together. 
+So this is the point of the experiment. 
+To red part is the magnet, and inside there are different types of detectors. 
+The detector outside is the magnet with 10,000 tons that come from the Soviet Union. 
+This experiment is about six stories high.
+Inside there are 300 tons of uranium which measure the energy and with 10,000 channels so this is one of the largest
 
 6:00 - 12:00
 
