@@ -1,5 +1,13 @@
 0:00 - 6:00
+[Interviewer]: Well good evening everyone. Thank you so much for joining us tonight's science cafe with Dr. Samuel Ting. My name is Kim Goldener and I will be the host evening. Before ww begin I would like to thank the Cary Library Foundation whose mission is to raise private funds for the Cary Library. Their support enables them to bring programs like tonights event to you. The foundation plays a unique role in the science cafe series, and also produces the content for each program. So now I would like to introduce the special guest for this evening. Professor Ting is a world renown particle physicist, and an MIT professor in physics. He was awarded the Nobel prize in physics in 1976, which he shared with Burton Richter, for the discovery of the j-particle. Professor Ting currently leads the alpha magnetic spectrometer experiment on the International Space Station which is searching for the origin of antimatter, dark matter, and cosmic rays. Please join me in welcoming Dr. Samuel Ting.
 
+[Dr. Ting]: Thank you.
+
+[Interviewer]: Thank you for coming.
+
+[Dr. Ting]: So currently, I am leading an experiment on the international space station known as alpha magnetic spectrometer or AMS. So to begin this I will share with you a history of our understanding of the building blocks of the universe. 2,000 years ago we view earth air, fire, and water as the most basic elements. Then we added three more elements. In the beginning of the 1900s we have figured out the chemical elements as the basic elements of the universe. In the fifties we viewed the nucleus as the basic element of the universe. After that, in the 1960s, we viewed a few hundred articles inside the nucleus as the building blocks of the universe. Now we view 6 quarks and the lepton as the basic element of the universe. Therefore the quarks lepton shows the truth changes with time.
+
+[Dr. Ting cont.]: The development of accelerators began in 1589. Where Galileo used the very [ineligible] energy accelerator, and perhaps did the most important work on gravity. Currently, the largest accelerator is the circumference of 27 kilometers or 15 miles 
 
 
 6:00 - 12:00
